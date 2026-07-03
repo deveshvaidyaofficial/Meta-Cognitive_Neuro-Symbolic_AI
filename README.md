@@ -35,79 +35,21 @@ The system not only predicts future traffic conditions but also evaluates:
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```text
-Traffic Sensors + Contextual Data
-                │
-                ▼
-      Data Acquisition Layer
-                │
-                ▼
-      Data Preprocessing Layer
-                │
-                ▼
-     Spatio-Temporal Deep Learning
-                │
-                ▼
-     Neuro-Symbolic Reasoning Engine
-                │
-                ▼
-   Meta-Cognitive Evaluation Module
-                │
-                ▼
-     Traffic Flow & Congestion Prediction
-                │
-                ▼
-        Explainable Decision Support
+< to be added > 
 ```
 
 ---
 
-## 🧩 Framework Components
+## Framework Components
 
-### 1. Data Acquisition and Management Layer
-- Traffic sensor data ingestion
-- Historical traffic data management
-- Contextual data collection
-
-### 2. Data Preprocessing Layer
-- Missing value handling
-- Data normalization
-- Feature engineering
-- Graph construction
-
-### 3. Deep Learning Prediction Module
-Potential forecasting models:
-
-- LSTM
-- GRU
-- DCRNN
-- STGCN
-- Graph WaveNet
-- Transformer-based models
-
-### 4. Neuro-Symbolic Reasoning Engine
-- Traffic rule representation
-- Symbolic inference
-- Knowledge graph construction
-- Explainable reasoning
-
-### 5. Meta-Cognitive Evaluation Module
-- Confidence estimation
-- Data quality assessment
-- Rule compliance checking
-- Contextual validity analysis
-- Adaptive model refinement
-
-### 6. Edge Computing Layer
-- Distributed inference
-- Regional traffic analytics
-- Low-latency prediction deployment
+<to be added>
 
 ---
 
-## 📊 Datasets
+## Datasets
 
 ### METR-LA Dataset
 - 207 loop detector sensors
@@ -122,37 +64,10 @@ Potential forecasting models:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
-project/
-│
-├── data/
-│   ├── metr-la/
-│   └── pems-bay/
-│
-├── notebooks/
-│   ├── Data_Analysis/
-│   ├── Feature_Engineering/
-│   ├── Model_Development/
-│   └── Experiments/
-│
-├── src/
-│   ├── data/
-│   ├── preprocessing/
-│   ├── graph/
-│   ├── models/
-│   ├── reasoning/
-│   ├── metacognition/
-│   ├── explainability/
-│   ├── evaluation/
-│   └── utils/
-│
-├── configs/
-├── experiments/
-├── results/
-├── requirements.txt
-└── README.md
+< to be added > 
 ```
 
 ---

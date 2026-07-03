@@ -1,0 +1,18 @@
+Due to limitations posed by GitHub all the files could not be uploaded into the repository, the exact file structure is attached for reference : 
+
+data/
+        └── metr-la/
+            └── processed/
+                ├── x_train.npy
+                ├── x_test.npy
+                ├── x_train_time.npy
+                ├── y_train.npy
+                ├── y_train_time.npy
+                ├── x_val.npy
+                ├── x_test_time.npy
+                ├── y_test.npy
+                ├── y_test_time.npy
+                ├── x_val_time.npy
+                ├── y_val.npy
+                ├── y_val_time.npy
+                └── scaler.pkl

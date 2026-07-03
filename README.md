@@ -72,7 +72,7 @@ The system not only predicts future traffic conditions but also evaluates:
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Clone Repository
 
@@ -110,7 +110,7 @@ pip install jupyter
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 ### Exploratory Data Analysis
 
@@ -138,32 +138,6 @@ python metacognition.py
 
 ---
 
-## 🔬 Methodology
-
-1. Data Acquisition
-2. Data Preprocessing
-3. Graph Construction
-4. Feature Engineering
-5. Spatio-Temporal Deep Learning
-6. Neuro-Symbolic Reasoning
-7. Meta-Cognitive Evaluation
-8. Explainable Traffic Forecasting
-
----
-
-## 📈 Evaluation Metrics
-
-### Regression Metrics
-- MAE
-- RMSE
-- MAPE
-
-### Classification Metrics
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-
 ### Meta-Cognitive Metrics
 - Prediction Confidence Score
 - Sensor Quality Score
@@ -172,14 +146,14 @@ python metacognition.py
 
 ---
 
-## 🎯 Expected Contributions
+## Expected Contributions
 ### Expected Contributions 
 1. Adaptive Meta-Cognitive Evaluation for robust traffic forecasting
 2. Hybrid Neuro-Symbolic framework using deep learning and traffic domain expertise
 3. Explainable predictions of urban traffic flows for intelligent transportation systems with edge computing 
 4. Increased accuracy of predictions under sensor data noise and incompleteness
 
-## 🌍 Applications
+## Applications
 
 - Intelligent Transportation Systems (ITS)
 - Smart Cities
@@ -191,7 +165,7 @@ python metacognition.py
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - Online Continual Learning
 - Federated Traffic Forecasting
@@ -202,19 +176,19 @@ python metacognition.py
 
 ---
 
-## 📚 Citation
+## Citation
 
 ```bibtex
 @project{MetaCognitiveNeuroSymbolicTrafficAI,
   title={Adaptive Meta-Cognitive Neuro-Symbolic AI for Urban Traffic Flow Prediction in Edge-Enabled Transportation Systems},
   year={2026},
-  author={Your Name}
+  author={Devesh Vaidya}
 }
 ```
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions, suggestions, and collaborations are welcome.
 
@@ -225,13 +199,13 @@ Contributions, suggestions, and collaborations are welcome.
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - METR-LA Dataset
 - PEMS-BAY Dataset
